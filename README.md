@@ -1,3 +1,8 @@
+# Apache DTrace Module
+
+I created this module to learn how Apache modules work (specifically the hook framework). This module is a POC and is not intended for production use (there are far better ways to visualize Apache specifics). Additional documentation is provided on my website:
+
+http://prefetch.net/projects/apache_modtrace/index.html
 
 # Build instructions:
 <pre>
