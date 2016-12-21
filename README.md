@@ -1,6 +1,6 @@
 
 # Build instructions:
-
+<pre>
 Step 1. Make sure Apache 2.X and Sun's C compiler are installed
 
 Step 2: Download the mod_dtrace.c and apache.d files:
@@ -49,3 +49,4 @@ Step 9: Verify that the probes are available by running the dtrace command:
 
 
 Step 10: Learn about your web server by writing some interesting D scripts.
+</pre>
